@@ -1,11 +1,11 @@
-# drone-ansible
+# ci-ansible
 
 ## Image
-[rossbannerman/drone-ansible](https://quay.io/repository/rossbannerman/drone-ansible)
+[rossbannerman/ci-ansible](https://hub.docker.com/repository/docker/rossbannerman/ci-ansible)
 
 
 ## Usage
-For use with [Drone CI](https://drone.io/). Includes: Ansible, Molecule, AWS CLI
+For use in CI/CD pipelines. Includes: Ansible, Molecule, AWS CLI
 
 ## Testing
-`docker run --name drone-ansible --rm -it quay.io/rossbannerman/drone-ansible /bin/sh`
+`docker run --name ci-ansible --rm -it rossbannerman/ci-ansible /bin/sh`
