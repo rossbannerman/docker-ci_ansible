@@ -23,7 +23,7 @@ click-help-colors==0.8
 colorama==0.4.3
 colorclass==2.2.0
 cookiecutter==1.7.2
-cryptography==2.9.2
+cryptography==3.2
 dictdiffer==0.8.1
 distlib==0.3.0
 distro==1.5.0
